@@ -1,0 +1,148 @@
+.inicio
+{
+    color: lightblue;
+}
+
+.topo
+{
+    background-color: lightblue;
+    height: 50px;
+    margin-top: -20px;
+}
+
+.home
+{
+    margin-left: -1200px;
+    margin-top: -26px
+}
+
+.perfil
+{
+    margin-left: -1000px;
+    margin-top: -44px;
+}
+
+a
+{
+    color: black;
+}
+.inicio2
+{
+    color: grey;
+}
+
+.titulo
+{
+    background-color: grey;
+    color: white;
+    height: 200px;
+    margin-top: -20px;
+}
+
+h1
+{
+    margin-bottom: 20px;
+    margin-top: 15px;
+    font-size: 50px;
+}
+
+.imagens
+{
+    background-color: black;
+    height: 450px;
+}
+
+.img1
+{
+    background-color: grey;
+    width: 260px;
+    height: 350px;
+    margin-top: 25px;
+    margin-left: 250px;
+}
+
+.img2
+{
+    background-color: grey;
+    width: 260px;
+    height: 350px;
+    margin-top: -347px;
+    margin-left: 550px;
+}
+
+.img3
+{
+    background-color: grey;
+    width: 260px;
+    height: 350px;
+    margin-top: -347px;
+    margin-left: 850px;
+}
+
+img
+{
+    width: 260px;
+}
+
+h2
+{
+    color: white;
+    margin-left: -135px;
+}
+
+.text1
+{
+    margin-left: -5px;
+}
+
+.text2
+{
+    margin-left: -40px;
+    margin-top: -15px;
+}
+
+.text3
+{
+    margin-left: -170px;
+    margin-top: -15px;
+}
+
+.ver
+{
+    margin-left: -180px;
+    color: lightblue;
+}
+
+.fim
+{
+    background-color: grey;
+    margin-top: -21px;
+    height: 120px;
+}
+
+.final
+{
+    color: grey;
+}
+
+h4
+{
+    margin-top: -20px;
+    color: white;
+}
+
+.frase
+{
+    margin-top: -10px;
+}
+
+footer
+{
+    color: white;
+    margin-top: -15px;
+}
+
+p
+{
+    color: white;
+}
